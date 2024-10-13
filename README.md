@@ -1,7 +1,7 @@
 ### A COUNTDOWN TIMER
 
 This is a countdown timer that counts down from a specified time. It is built using HTML, CSS, and JavaScript.
-\n
+
 The timer can be used to set a reminder for an event, or to track the time remaining until a deadline.
 \n
 The code is well-commented and easy to understand.
@@ -34,4 +34,3 @@ The code is well-commented and easy to understand.
 **Enjoy!**
 \n
 ---
-\n
